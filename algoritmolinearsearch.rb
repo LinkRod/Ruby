@@ -17,6 +17,7 @@ def global_linear_search(char,array)
 end
 
 
+
 random_numbers = [ 4, 3, 2, 20, 5, 64, 78, 11, 43 ]
 p linear_search(20, random_numbers)
 # => 3
